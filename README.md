@@ -1,0 +1,4 @@
+Hi, I’m @dyfinsta or Dylan
+I'm a B.S. Computer Science Student
+Right now I'm learning TypeScript/React and Unreal Engine 5
+Pronouns: he/him
